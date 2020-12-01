@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 400 题，目前已整理代码 324 题，其中 C/C++ 168 题、Java 149 题、Kotlin 1 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 404 题，目前已整理代码 328 题，其中 C/C++ 168 题、Java 153 题、Kotlin 1 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -267,6 +267,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 74               | Search a 2D Matrix                             |                     | 分治                                          |          |
 | LeetCode   | 81               | Search in Rotated Sorted Array II              |                     | 二分                                           | java     |
 | LeetCode   | 98               | 验证二叉搜索树                                  | 二叉搜索树           |                                               |  java   |
+| LeetCode   | 104              | Maximum Depth of Binary Tree                   |                     |                                               | java    |
 | LeetCode   | 116              | Populating Next Right Pointers in Each Node    |                     |                                               |  java   |
 | LeetCode   | 119              | Pascal's Triangle II                           |                     |                                               |  java   |
 | LeetCode   | 136              | 只出现一次的数字                                |                     |                                               | c     |
@@ -279,9 +280,11 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 200              | Number of Islands                             |                    | 深度优先搜索                                   | java     |
 | LeetCode   | 208              | 实现Trie（前缀树）                             | 前缀树              |                                               | java     |
 | LeetCode   | 212              | 单词搜索 II                                    | 前缀树              | 深度优先搜索                                  | java     |
+| LeetCode   | 218              | The Skyline Problem                           |                   | 扫描线算法                                      | java     |
 | LeetCode   | 227              | Basic Calculator II                           | 栈                  |                                                | c       |
 | LeetCode   | 230              | 二叉搜索树中第k小的元素                        | 二叉搜索树          | 递归                                          | java     |
 | LeetCode   | 236              | 二叉树的最近公共祖先                           | 二叉树              |                                               | java     |
+| LeetCode   | 239              | Sliding Window Maximum                        |                    |  滑动窗口,双端队列                             | java     |
 | LeetCode   | 242              | 有效的字母异位词                               |                     | 哈希                                          | java     |
 | LeetCode   | 274              | H-Index                                       |                     |                                                | c      |
 | LeetCode   | 278              | First Bad Version                             |                     | 二分查找                                       | java     |
@@ -298,6 +301,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 394              | Decode String                                 |                     |                                               | java     |
 | LeetCode   | 395              | Longest Substring with At Least K Repeating Characters | 哈希表      |  递归                                         | kotlin    |
 | LeetCode   | 402              | Remove K Digits                              |  单调栈               |  贪心                                         | java     |
+| LeetCode   | 416              | Partition Equal Subset Sum                    |                     | 动态规划                                       | java     |
 | LeetCode   | 438              | Find All Anagrams in a String                 |                    |  滑动窗口                                         | java     |
 | LeetCode   | 451              | Sort Characters By Frequency                  |                     |                                              | java     |
 | LeetCode   | 458              | Poor Pigs                                     |                     | 进制转换                                      | java     |
@@ -336,6 +340,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1232             | Check If It Is a Straight Line                 |                    |                                               | java     |
 | LeetCode   | 1277             | Count Square Submatrices with All Ones         |                     | 动态规划                                      | java     |
 | LeetCode   | 1286             | Iterator for Combination                       |                     |                                              | java     |
+| LeetCode   | 1306             | Jump Game III                                  |                     | 深度优先搜索,广度优先搜索                     | java     |
 | LeetCode   | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | | | java  |
 | POJ        | 1182             | 食物链                                         | 并查集              |                                               |          |
 | POJ        | 1804             | Brainman                                       |                     | 归并排序                                      | java     |
