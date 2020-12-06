@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 406 题，目前已整理代码 330 题，其中 C/C++ 168 题、Java 155 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 408 题，目前已整理代码 332 题，其中 C/C++ 168 题、Java 157 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -311,6 +311,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 540              | Single Element in a Sorted Array              |                     | 二分查找                                      | java     |
 | LeetCode   | 567              | Permutation in String                         |                     | 滑动窗口                                      | java     |
 | LeetCode   | 593              | Valid Square                                  |                     |                                                | java     |
+| LeetCode   | 605              | Can Place Flowers                             |                     | 贪心,数学                                      | java      |
 | LeetCode   | 678              | Valid Parenthesis String                      |                     | 动态规划,贪心                                  | java      |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                     |                     |                                               |          |
 | LeetCode   | 733              | Flood Fill                                     |                    |   深度优先搜索                                 | java     |
@@ -343,6 +344,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1277             | Count Square Submatrices with All Ones         |                     | 动态规划                                      | java     |
 | LeetCode   | 1286             | Iterator for Combination                       |                     |                                              | java     |
 | LeetCode   | 1306             | Jump Game III                                  |                     | 深度优先搜索,广度优先搜索                     | java     |
+| LeetCode   | 1492             | The kth Factor of n                            |                     |                                              | java     |
 | LeetCode   | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | | | java  |
 | POJ        | 1182             | 食物链                                         | 并查集              |                                               |          |
 | POJ        | 1804             | Brainman                                       |                     | 归并排序                                      | java     |
