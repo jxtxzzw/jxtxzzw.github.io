@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 408 题，目前已整理代码 332 题，其中 C/C++ 168 题、Java 157 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 410 题，目前已整理代码 334 题，其中 C/C++ 168 题、Java 159 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -261,6 +261,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 50               | Pow(x, n)                                     |                     | 分治,快速幂                                     | java |
 | LeetCode   | 53               | 最大子序和                                     |                     | 动态规划                                       | js |
 | LeetCode   | 56               | Merge Intervals                               |                     |                                              | js |
+| LeetCode   | 59               | Spiral Matrix II                              |                     |                                              | java  |
 | LeetCode   | 62               | 不同路径                                       |                     | 动态规划                                      | java     |
 | LeetCode   | 64               | Minimum Path                                  |                     | 动态规划                                      | java     |
 | LeetCode   | 70               | 爬楼梯                                         |                     | 动态规划                                      | java     |
@@ -269,6 +270,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 98               | 验证二叉搜索树                                  | 二叉搜索树           |                                               |  java   |
 | LeetCode   | 104              | Maximum Depth of Binary Tree                   |                     |                                               | java    |
 | LeetCode   | 116              | Populating Next Right Pointers in Each Node    |                     |                                               |  java   |
+| LeetCode   | 117              | Populating Next Right Pointers in Each Node II |                     |                                               |  java   |
 | LeetCode   | 119              | Pascal's Triangle II                           |                     |                                               |  java   |
 | LeetCode   | 136              | 只出现一次的数字                                |                     |                                               | c     |
 | LeetCode   | 137              | Single Number II                               |                     |  位运算                                       | java     |
