@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 411 题，目前已整理代码 335 题，其中 C/C++ 168 题、Java 160 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 416 题，目前已整理代码 340 题，其中 C/C++ 168 题、Java 165 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -266,6 +266,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 64               | Minimum Path                                  |                     | 动态规划                                      | java     |
 | LeetCode   | 70               | 爬楼梯                                         |                     | 动态规划                                      | java     |
 | LeetCode   | 74               | Search a 2D Matrix                             |                     | 分治                                          |          |
+| LeetCode   | 80               | Remove Duplicates from Sorted Array II        |                     |                                                  | java   |
 | LeetCode   | 81               | Search in Rotated Sorted Array II              |                     | 二分                                           | java     |
 | LeetCode   | 98               | 验证二叉搜索树                                  | 二叉搜索树           |                                               |  java   |
 | LeetCode   | 104              | Maximum Depth of Binary Tree                   |                     |                                               | java    |
@@ -276,6 +277,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 137              | Single Number II                               |                     |  位运算                                       | java     |
 | LeetCode   | 155              | 最小栈                                         | 栈                  |                                               | java     |
 | LeetCode   | 169              | Majority Element                              |                   | 摩尔投票法                                       | java      |
+| LeetCode   | 173              | Binary Search Tree Iterator                   | 栈                  |                                                | java      |
 | LeetCode   | 175              | 组合两个表                                     | 数据库              | 外连接                                        | sql      |
 | LeetCode   | 179              | Largest Number                                 |                     | 贪心                                          |          |
 | LeetCode   | 198              | 打家劫舍                                       |                     | 动态规划                                      | cpp      |
@@ -294,6 +296,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 295              | 数据流的中位数                                 | 堆                  |                                               | java     |
 | LeetCode   | 300              | 最长上升子序列                                 |                     | 动态规划,贪心,二分查找                        | java     |
 | LeetCode   | 315              | 计算右侧小于当前元素的个数                     | 树状数组            | 离散化                                        | cpp      |
+| LeetCode   | 316              | Burst Balloons                                 |              |  动态规划                                          | java      |
 | LeetCode   | 319              | Bulb Switcher                                  |                     |                                               |          |
 | LeetCode   | 328              | Odd Even Linked List                          |                     |                                               | java       |
 | LeetCode   | 337              | House Robber III                              | 二叉树              | 递归,动态规划                                   | java       |
@@ -324,12 +327,14 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 845              | Longest Mountain in Array                      |                     | 双指针                                        | java     |
 | LeetCode   | 858              | Mirror Reflection                              |                     |                                               | java     |
 | LeetCode   | 860              | Lemonade Change                                |                     | 贪心                                          |          |
+| LeetCode   | 865              | Smallest Subtree with all the Deepest Nodes    |                    | 递归,记忆化搜索                               | java    |
 | LeetCode   | 881              | 救生艇                                         | 双指针              | 贪心                                          |          |
 | LeetCode   | 897              | Increasing Order Search Tree                  | 二叉搜索树          | 递归                                           | java     |
 | LeetCode   | 901              | Online Stock Span                             |  栈                |                                                | java     |
 | LeetCode   | 902              | Numbers At Most N Given Digit Set             |                     |  数位DP,数学,进制转换,贪心                      | java     |
 | LeetCode   | 918              | Maximum Sum Circular Subarray                 |                     | 前缀和,双端队列,动态规划                        | java     |
 | LeetCode   | 938              | Range Sum of BST                               |                     |                                               | java     |
+| LeetCode   | 941              | Valid Mountain Array                           |                     |                                               | java     |
 | LeetCode   | 970              | Powerful Integers                              |                     |                                               |          |
 | LeetCode   | 974              | Subarray Sums Divisible by K                   |                     | 前缀和,差分                                   |          |
 | LeetCode   | 983              | Minimum Cost For Tickets                       |                     | 动态规划                                      | java |
