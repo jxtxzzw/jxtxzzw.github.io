@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 418 题，目前已整理代码 342 题，其中 C/C++ 168 题、Java 167 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 424 题，目前已整理代码 348 题，其中 C/C++ 168 题、Java 173 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -272,6 +272,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 104              | Maximum Depth of Binary Tree                   |                     |                                               | java    |
 | LeetCode   | 116              | Populating Next Right Pointers in Each Node    |                     |                                               |  java   |
 | LeetCode   | 117              | Populating Next Right Pointers in Each Node II |                     |                                               |  java   |
+| LeetCode   | 110              | Balanced Binary Tree                           |                     |                                               | java   |
 | LeetCode   | 119              | Pascal's Triangle II                           |                     |                                               |  java   |
 | LeetCode   | 131              | Palindrome Partitioning                        |                     | 动态规划,回溯                                  | java   |
 | LeetCode   | 136              | 只出现一次的数字                                |                     |                                               | c     |
@@ -300,6 +301,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 316              | Burst Balloons                                 |              |  动态规划                                          | java      |
 | LeetCode   | 319              | Bulb Switcher                                  |                     |                                               |          |
 | LeetCode   | 328              | Odd Even Linked List                          |                     |                                               | java       |
+| LeetCode   | 334              | Increasing Triplet Subsequence                |                    |                                                 | java     |
 | LeetCode   | 337              | House Robber III                              | 二叉树              | 递归,动态规划                                   | java       |
 | LeetCode   | 367              | Valid Perfect Square                          |                     |                                               | js  |
 | LeetCode   | 382              | Linked List Random Node                       |                     |                                               |             |
@@ -311,6 +313,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 416              | Partition Equal Subset Sum                    |                     | 动态规划                                       | java     |
 | LeetCode   | 438              | Find All Anagrams in a String                 |                    |  滑动窗口                                         | java     |
 | LeetCode   | 451              | Sort Characters By Frequency                  |                     |                                              | java     |
+| LeetCode   | 454              | 4Sum II                                       |                     |                                              | java     |
 | LeetCode   | 458              | Poor Pigs                                     |                     | 进制转换                                      | java     |
 | LeetCode   | 476              | Number Complement                             | 哈希表               |                                              | java     |
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
@@ -329,10 +332,12 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 858              | Mirror Reflection                              |                     |                                               | java     |
 | LeetCode   | 860              | Lemonade Change                                |                     | 贪心                                          |          |
 | LeetCode   | 865              | Smallest Subtree with all the Deepest Nodes    |                    | 递归,记忆化搜索                               | java    |
+| LeetCode   | 880              | Decoded String at Index                        |                     | 递归,余数                                     | java    |
 | LeetCode   | 881              | 救生艇                                         | 双指针              | 贪心                                          |          |
 | LeetCode   | 897              | Increasing Order Search Tree                  | 二叉搜索树          | 递归                                           | java     |
 | LeetCode   | 901              | Online Stock Span                             |  栈                |                                                | java     |
 | LeetCode   | 902              | Numbers At Most N Given Digit Set             |                     |  数位DP,数学,进制转换,贪心                      | java     |
+| LeetCode   | 910              | Smallest Range II                              |                     |                                                | java     |
 | LeetCode   | 918              | Maximum Sum Circular Subarray                 |                     | 前缀和,双端队列,动态规划                        | java     |
 | LeetCode   | 938              | Range Sum of BST                               |                     |                                               | java     |
 | LeetCode   | 941              | Valid Mountain Array                           |                     |                                               | java     |
@@ -354,6 +359,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1277             | Count Square Submatrices with All Ones         |                     | 动态规划                                      | java     |
 | LeetCode   | 1286             | Iterator for Combination                       |                     |                                              | java     |
 | LeetCode   | 1306             | Jump Game III                                  |                     | 深度优先搜索,广度优先搜索                     | java     |
+| LeetCode   | 1463             | Cherry Pickup II                               |                     | 动态规划                                      | java    |
 | LeetCode   | 1492             | The kth Factor of n                            |                     |                                              | java     |
 | LeetCode   | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | | | java  |
 | POJ        | 1182             | 食物链                                         | 并查集              |                                               |          |
