@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 424 题，目前已整理代码 348 题，其中 C/C++ 168 题、Java 173 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 427 题，目前已整理代码 351 题，其中 C/C++ 169 题、Java 175 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -253,7 +253,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 20               | 有效的括号                                     | 栈                  |                                               | java     |
 | LeetCode   | 21               | Merge Two Sorted Lists                         |  链表               | 归并排序                                      | c     |
 | LeetCode   | 22               | Generate Parentheses                           |                     | 动态规划                                      | java     |
-| LeetCode   | 24               | 两两交换链表中的节点                           | 链表                |                                               | java     |
+| LeetCode   | 24               | Swap Nodes in Pairs                             | 链表                |                                               | c     |
 | LeetCode   | 25               | K 个一组翻转链表                               | 链表                |                                               | java     |
 | LeetCode   | 33               | Search in Rotated Sorted Array                |                     | 二分                                           | java     |
 | LeetCode   | 45               | 跳跃游戏 II                                    |                     | 贪心                                          | java     |
@@ -316,8 +316,10 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 454              | 4Sum II                                       |                     |                                              | java     |
 | LeetCode   | 458              | Poor Pigs                                     |                     | 进制转换                                      | java     |
 | LeetCode   | 476              | Number Complement                             | 哈希表               |                                              | java     |
+| LeetCode   | 498              | Diagonal Traverse                             |                     |                                               | java    |
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
 | LeetCode   | 540              | Single Element in a Sorted Array              |                     | 二分查找                                      | java     |
+| LeetCode   | 556              | Next Greater Element III                      |                     |                                               | java    |
 | LeetCode   | 567              | Permutation in String                         |                     | 滑动窗口                                      | java     |
 | LeetCode   | 593              | Valid Square                                  |                     |                                                | java     |
 | LeetCode   | 605              | Can Place Flowers                             |                     | 贪心,数学                                      | java      |
