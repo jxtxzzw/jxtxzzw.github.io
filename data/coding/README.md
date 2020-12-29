@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 428 题，目前已整理代码 352 题，其中 C/C++ 169 题、Java 176 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 431 题，目前已整理代码 355 题，其中 C/C++ 169 题、Java 179 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -328,6 +328,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 717              | 1-bit and 2-bit Characters                     |                     |                                               |          |
 | LeetCode   | 733              | Flood Fill                                     |                    |   深度优先搜索                                 | java     |
 | LeetCode   | 739              | 每日温度                                       | 栈                  |                                               | java     |
+| LeetCode   | 754              | Reach a Number                                |                   |                                               | java    |
 | LeetCode   | 771              | Jewels and Stones                             |                   |                                               | js     |
 | LeetCode   | 804              | Unique Morse Code Words                       | 集合                  |                                             | java      |
 | LeetCode   | 844              | 比较含退格的字符串                             | 栈                  | 双指针                                        | c        |
@@ -362,6 +363,8 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1277             | Count Square Submatrices with All Ones         |                     | 动态规划                                      | java     |
 | LeetCode   | 1286             | Iterator for Combination                       |                     |                                              | java     |
 | LeetCode   | 1306             | Jump Game III                                  |                     | 深度优先搜索,广度优先搜索                     | java     |
+| LeetCode   | 1345             | Jump Game IV                                   |                     | 广度优先搜索                                  | java    |
+| LeetCode   | 1457             | Pseudo-Palindromic Paths in a Binary Tree      |                     |                                               | java    |
 | LeetCode   | 1463             | Cherry Pickup II                               |                     | 动态规划                                      | java    |
 | LeetCode   | 1492             | The kth Factor of n                            |                     |                                              | java     |
 | LeetCode   | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | | | java  |
