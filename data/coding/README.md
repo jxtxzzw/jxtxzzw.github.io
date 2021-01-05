@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 431 题，目前已整理代码 355 题，其中 C/C++ 169 题、Java 179 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 433 题，目前已整理代码 357 题，其中 C/C++ 170 题、Java 180 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -268,6 +268,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 74               | Search a 2D Matrix                             |                     | 分治                                          |          |
 | LeetCode   | 80               | Remove Duplicates from Sorted Array II        |                     |                                                  | java   |
 | LeetCode   | 81               | Search in Rotated Sorted Array II              |                     | 二分                                           | java     |
+| LeetCode   | 82               | Remove Duplicates from Sorted List II          |                     |                                                | c       |
 | LeetCode   | 91               | Decode Ways                                    |                      | 动态规划                                      | java     |
 | LeetCode   | 98               | 验证二叉搜索树                                  | 二叉搜索树           |                                               |  java   |
 | LeetCode   | 104              | Maximum Depth of Binary Tree                   |                     |                                               | java    |
@@ -296,6 +297,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 274              | H-Index                                       |                     |                                                | c      |
 | LeetCode   | 278              | First Bad Version                             |                     | 二分查找                                       | java     |
 | LeetCode   | 287              | Find the Duplicate Number                      | 双指针              |                                               |          |
+| LeetCode   | 289              | Game of Life                                  |                     |                                               | java     |
 | LeetCode   | 295              | 数据流的中位数                                 | 堆                  |                                               | java     |
 | LeetCode   | 300              | 最长上升子序列                                 |                     | 动态规划,贪心,二分查找                        | java     |
 | LeetCode   | 315              | 计算右侧小于当前元素的个数                     | 树状数组            | 离散化                                        | cpp      |
