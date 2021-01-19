@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 437 题，目前已整理代码 361 题，其中 C/C++ 171 题、Java 183 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 440 题，目前已整理代码 364 题，其中 C/C++ 171 题、Java 186 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -341,7 +341,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 860              | Lemonade Change                                              |                     | 贪心                                          |          |
 | LeetCode   | 865              | Smallest Subtree with all the Deepest Nodes                  |                     | 递归,记忆化搜索                               | java     |
 | LeetCode   | 880              | Decoded String at Index                                      |                     | 递归,余数                                     | java     |
-| LeetCode   | 881              | 救生艇                                                       | 双指针              | 贪心                                          |          |
+| LeetCode   | 881              | Boats to Save People                                         | 双指针              | 贪心                                          | java     |
 | LeetCode   | 897              | Increasing Order Search Tree                                 | 二叉搜索树          | 递归                                          | java     |
 | LeetCode   | 901              | Online Stock Span                                            | 栈                  |                                               | java     |
 | LeetCode   | 902              | Numbers At Most N Given Digit Set                            |                     | 数位DP,数学,进制转换,贪心                     | java     |
@@ -373,6 +373,8 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1492             | The kth Factor of n                                          |                     |                                               | java     |
 | LeetCode   | 1539             | Kth Missing Positive Number                                  |                     |                                               | c        |
 | LeetCode   | 1430             | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |                     |                                               | java     |
+| LeetCode   | 1646             | Get Maximum in Generated Array                               |                     |                                               | java     |
+| LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                           | java     |
 | LeetCode   | 1662             | Check If Two String Arrays are Equivalent                    |                     |                                               | java     |
 | POJ        | 1182             | 食物链                                                       | 并查集              |                                               |          |
 | POJ        | 1804             | Brainman                                                     |                     | 归并排序                                      | java     |
