@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 445 题，目前已整理代码 369 题，其中 C/C++ 171 题、Java 191 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 448 题，目前已整理代码 372 题，其中 C/C++ 171 题、Java 194 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -302,6 +302,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 242              | 有效的字母异位词                                             |                     | 哈希                                          | java     |
 | LeetCode   | 274              | H-Index                                                      |                     |                                               | c        |
 | LeetCode   | 278              | First Bad Version                                            |                     | 二分查找                                      | java     |
+| LeetCode   | 284              | Peeking Iterator                                             | 双指针              |                                               | java   |
 | LeetCode   | 287              | Find the Duplicate Number                                    | 双指针              |                                               |          |
 | LeetCode   | 289              | Game of Life                                                 |                     |                                               | java     |
 | LeetCode   | 295              | 数据流的中位数                                               | 堆                  |                                               | java     |
@@ -327,6 +328,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 476              | Number Complement                                            | 哈希表              |                                               | java     |
 | LeetCode   | 498              | Diagonal Traverse                                            |                     |                                               | java     |
 | LeetCode   | 516              | 最长回文子序列                                               |                     | 动态规划                                      | java     |
+| LeetCode   | 538              | Convert BST to Greater Tree                                  | 二叉树              | Reverse Morris In-order Traversal             | java    |
 | LeetCode   | 540              | Single Element in a Sorted Array                             |                     | 二分查找                                      | java     |
 | LeetCode   | 556              | Next Greater Element III                                     |                     |                                               | java     |
 | LeetCode   | 567              | Permutation in String                                        |                     | 滑动窗口                                      | java     |
@@ -341,6 +343,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 754              | Reach a Number                                               |                     |                                               | java     |
 | LeetCode   | 771              | Jewels and Stones                                            |                     |                                               | js       |
 | LeetCode   | 804              | Unique Morse Code Words                                      | 集合                |                                               | java     |
+| LeetCode   | 821              | Shortest Distance to a Character                             |                     | 贪心                                             | java   |
 | LeetCode   | 844              | 比较含退格的字符串                                           | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                                    |                     | 双指针                                        | java     |
 | LeetCode   | 858              | Mirror Reflection                                            |                     |                                               | java     |
