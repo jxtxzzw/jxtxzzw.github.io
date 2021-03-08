@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 450 题，目前已整理代码 374 题，其中 C/C++ 171 题、Java 196 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 457 题，目前已整理代码 381 题，其中 C/C++ 171 题、Java 203 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -282,9 +282,10 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 131              | Palindrome Partitioning                                      |                     | 动态规划,回溯                                 | java     |
 | LeetCode   | 136              | 只出现一次的数字                                             |                     |                                               | c        |
 | LeetCode   | 137              | Single Number II                                             |                     | 位运算                                        | java     |
-| LeetCode   | 138    | Copy List with Random Pointer       | 链表      |             | java  |
+| LeetCode   | 138              | Copy List with Random Pointer       | 链表      |             | java  |
 | LeetCode   | 141              | Linked List Cycle                                            | 链表                | 双指针                                        | java     |
 | LeetCode   | 155              | 最小栈                                                       | 栈                  |                                               | java     |
+| LeetCode   | 160              | Intersection of Two Linked Lists                             |                     | 双指针                                        | java     |
 | LeetCode   | 169              | Majority Element                                             |                     | 摩尔投票法                                    | java     |
 | LeetCode   | 173              | Binary Search Tree Iterator                                  | 栈                  |                                               | java     |
 | LeetCode   | 175              | 组合两个表                                                   | 数据库              | 外连接                                        | sql      |
@@ -301,6 +302,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 236              | 二叉树的最近公共祖先                                         | 二叉树              |                                               | java     |
 | LeetCode   | 239              | Sliding Window Maximum                                       |                     | 滑动窗口,双端队列                             | java     |
 | LeetCode   | 242              | 有效的字母异位词                                             |                     | 哈希                                          | java     |
+| LeetCode   | 268              | Missing Number                                                |                     | 数学                                          | java     |
 | LeetCode   | 274              | H-Index                                                      |                     |                                               | c        |
 | LeetCode   | 278              | First Bad Version                                            |                     | 二分查找                                      | java     |
 | LeetCode   | 284              | Peeking Iterator                                             | 双指针              |                                               | java   |
@@ -333,17 +335,22 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 540              | Single Element in a Sorted Array                             |                     | 二分查找                                      | java     |
 | LeetCode   | 556              | Next Greater Element III                                     |                     |                                               | java     |
 | LeetCode   | 567              | Permutation in String                                        |                     | 滑动窗口                                      | java     |
+| LeetCode   | 575              | Distribute Candies                                            |                     |                                               | java     |
 | LeetCode   | 593              | Valid Square                                                 |                     |                                               | java     |
 | LeetCode   | 594              | Longest Harmonious Subsequence                               | 哈希表               | 贪心                                          | java     |
 | LeetCode   | 605              | Can Place Flowers                                            |                     | 贪心,数学                                     | java     |
+| LeetCode   | 637              | Average of Levels in Binary Tree                              |                      |                                               | java     |
+| LeetCode   | 645              | Set Mismatch                                                 |                      | 位运算                                          | java     |
 | LeetCode   | 669              | Trim a Binary Search Tree                                    | 二叉树              | 递归                                          | java     |
 | LeetCode   | 678              | Valid Parenthesis String                                     |                     | 动态规划,贪心                                 | java     |
+| LeetCode   | 706              | Design HashMap                                                |                     |                                               | java    |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                                   |                     |                                               |          |
 | LeetCode   | 733              | Flood Fill                                                   |                     | 深度优先搜索                                  | java     |
 | LeetCode   | 739              | 每日温度                                                     | 栈                  |                                               | java     |
 | LeetCode   | 754              | Reach a Number                                               |                     |                                               | java     |
 | LeetCode   | 771              | Jewels and Stones                                            |                     |                                               | js       |
 | LeetCode   | 804              | Unique Morse Code Words                                      | 集合                |                                               | java     |
+| LeetCode   | 820              | Short Encoding of Words                                        | 字典树            | 贪心                                             | java   |
 | LeetCode   | 821              | Shortest Distance to a Character                             |                     | 贪心                                             | java   |
 | LeetCode   | 844              | 比较含退格的字符串                                           | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                                    |                     | 双指针                                        | java     |
