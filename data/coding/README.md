@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 458 题，目前已整理代码 382 题，其中 C/C++ 171 题、Java 204 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 463 题，目前已整理代码 387 题，其中 C/C++ 171 题、Java 209 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -251,6 +251,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 7                | Reverse Integer                                              |                     |                                               |          |
 | LeetCode   | 9                | Palindrome Number                                            |                     |                                               |          |
 | LeetCode   | 11               | Container With Most Water                                    | 双指针              | 暴力                                          |          |
+| LeetCode   | 12               | Integer to Roman                                            |                    |                                                 | java   |
 | LeetCode   | 20               | 有效的括号                                                   | 栈                  |                                               | java     |
 | LeetCode   | 21               | Merge Two Sorted Lists                                       | 链表                | 归并排序                                      | c        |
 | LeetCode   | 22               | Generate Parentheses                                         |                     | 动态规划                                      | java     |
@@ -313,6 +314,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 315              | 计算右侧小于当前元素的个数                                   | 树状数组            | 离散化                                        | cpp      |
 | LeetCode   | 316              | Burst Balloons                                               |                     | 动态规划                                      | java     |
 | LeetCode   | 319              | Bulb Switcher                                                |                     |                                               |          |
+| LeetCode   | 322              | Coin Change                                                  |                     | 动态规划                                      | java      |
 | LeetCode   | 328              | Odd Even Linked List                                         |                     |                                               | java     |
 | LeetCode   | 334              | Increasing Triplet Subsequence                               |                     |                                               | java     |
 | LeetCode   | 337              | House Robber III                                             | 二叉树              | 递归,动态规划                                 | java     |
@@ -352,6 +354,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 804              | Unique Morse Code Words                                      | 集合                |                                               | java     |
 | LeetCode   | 820              | Short Encoding of Words                                        | 字典树            | 贪心                                             | java   |
 | LeetCode   | 821              | Shortest Distance to a Character                             |                     | 贪心                                             | java   |
+| LeetCode   | 823              | Binary Trees With Factors                                   |                     | 动态规划                                      | java     |
 | LeetCode   | 844              | 比较含退格的字符串                                           | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                                    |                     | 双指针                                        | java     |
 | LeetCode   | 856              | Score of Parentheses                                         |                     | 贪心,数学                                      | java     |
@@ -392,9 +395,11 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1492             | The kth Factor of n                                          |                     |                                               | java     |
 | LeetCode   | 1539             | Kth Missing Positive Number                                  |                     |                                               | c        |
 | LeetCode   | 1430             | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |                     |                                               | java     |
+| LeetCode   | 1461             | Check If a String Contains All Binary Codes of Size K        |                     |  滑动窗口,哈希                                 | java       |
 | LeetCode   | 1646             | Get Maximum in Generated Array                               |                     |                                               | java     |
 | LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                           | java     |
 | LeetCode   | 1662             | Check If Two String Arrays are Equivalent                    |                     |                                               | java     |
+| LeetCode   | 1721             | Swapping Nodes in a Linked List                              |                     |                                               | java     |
 | POJ        | 1182             | 食物链                                                       | 并查集              |                                               |          |
 | POJ        | 1804             | Brainman                                                     |                     | 归并排序                                      | java     |
 | POJ        | 1852             | Ants                                                         |                     |                                               | cpp      |
