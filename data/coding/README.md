@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 481 题，目前已整理代码 404 题，其中 C/C++ 171 题、Java 225 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 487 题，目前已整理代码 410 题，其中 C/C++ 170 题、Java 232 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -273,6 +273,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 81               | Search in Rotated Sorted Array II                            |                     | 二分                                          | java     |
 | LeetCode   | 82               | Remove Duplicates from Sorted List II                        |                     |                                               | c        |
 | LeetCode   | 88               | Merge Sorted Array                                           |                     | 归并排序                                      | java     |
+| LeetCode   | 89               | Gray Code                                                    |                      |                                              | java     |
 | LeetCode   | 91               | Decode Ways                                                  |                     | 动态规划                                      | java     |
 | LeetCode   | 92               | Reverse Linked List II                                      | 链表                 |                                              | java     |
 | LeetCode   | 98               | 验证二叉搜索树                                               | 二叉搜索树          |                                               | java     |
@@ -283,6 +284,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 118              | Pascal's Triangle                                            |                     |                                               | java     |
 | LeetCode   | 119              | Pascal's Triangle II                                         |                     |                                               | java     |
 | LeetCode   | 131              | Palindrome Partitioning                                      |                     | 动态规划,回溯                                 | java     |
+| LeetCode   | 135              | Candy                                                        |                     | 贪心                                           | java        |
 | LeetCode   | 136              | 只出现一次的数字                                             |                     |                                               | c        |
 | LeetCode   | 137              | Single Number II                                             |                     | 位运算                                        | java     |
 | LeetCode   | 138              | Copy List with Random Pointer                                | 链表                 |                                             | java  |
@@ -318,7 +320,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 303              | Range Sum Query 2D - Immutable                                | 树状数组             |                                              | java     |
 | LeetCode   | 307              | Range Sum Query - Mutable                                     | 树状数组             |                                              | java     |
 | LeetCode   | 308              | Range Sum Query 2D - Mutable                                     | 树状数组             |                                              |        |
-| LeetCode   | 315              | 计算右侧小于当前元素的个数                                   | 树状数组            | 离散化                                        | cpp      |
+| LeetCode   | 315              | Count of Smaller Numbers After Self                                   | 树状数组            | 离散化                                        | java      |
 | LeetCode   | 316              | Burst Balloons                                               |                     | 动态规划                                      | java     |
 | LeetCode   | 319              | Bulb Switcher                                                |                     |                                               |          |
 | LeetCode   | 322              | Coin Change                                                  |                     | 动态规划                                      | java      |
@@ -353,6 +355,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 605              | Can Place Flowers                                            |                     | 贪心,数学                                     | java     |
 | LeetCode   | 637              | Average of Levels in Binary Tree                              |                      |                                               | java     |
 | LeetCode   | 645              | Set Mismatch                                                 |                      | 位运算                                          | java     |
+| LeetCode   | 658              | Find K Closest Elements                                      |                     | 二分查找                                      | java     |
 | LeetCode   | 669              | Trim a Binary Search Tree                                    | 二叉树              | 递归                                          | java     |
 | LeetCode   | 678              | Valid Parenthesis String                                     |                     | 动态规划,贪心                                 | java     |
 | LeetCode   | 684              | Redundant Connection                                         | 并查集               |                                               | java    |
@@ -397,10 +400,13 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 991              | Broken Calculator                                            |                     | 贪心                                          |          |
 | LeetCode   | 993              | Cousins in Binary Tree                                       |                     |                                               | java     |
 | LeetCode   | 997              | Find the Town Judge                                          | 图的入度和出度      |                                               | java     |
+| LeetCode   | 1004             | Max Consecutive Ones III                                     |                     | 贪心,滑动窗口,双指针                           | java     |
 | LeetCode   | 1008             | Construct Binary Search Tree from Preorder Traversal         |                     |                                               | java     |
 | LeetCode   | 1010             | Pairs of Songs With Total Durations Divisible by 60          |                     |                                               | java     |
 | LeetCode   | 1015             | Smallest Integer Divisible by K                              |                     |                                               | c        |
 | LeetCode   | 1046             | Last Stone Weight                                            | 优先级队列          |                                               | java     |
+| LeetCode   | 1047             | Remove All Adjacent Duplicates In String                     | 栈                  | 贪心                                          | java     |
+| LeetCode   | 1220             | Count Vowels Permutation                                     |                     | 动态规划                                      | java      |
 | LeetCode   | 1232             | Check If It Is a Straight Line                               |                     |                                               | java     |
 | LeetCode   | 1277             | Count Square Submatrices with All Ones                       |                     | 动态规划                                      | java     |
 | LeetCode   | 1286             | Iterator for Combination                                     |                     |                                               | java     |
