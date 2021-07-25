@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 515 题 (records in total)
+共有记录 525 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 204
++ LeetCode: 214
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 438 题 (with code and tags)
+目前已整理代码 454 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 258 题使用 Java 编写 (solved with Java)
++ 274 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -277,7 +277,9 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 9                | Palindrome Number                                            |                     |                                               | java     |
 | LeetCode   | 11               | Container With Most Water                                    | 双指针              | 暴力                                          |          |
 | LeetCode   | 12               | Integer to Roman                                             |                     |                                               | java     |
+| LeetCode   | 15               | 3Sum                                                         |                     |                                               | java     |
 | LeetCode   | 17               | Letter Combinations of a Phone Number                        |                     | 递归                                              | java     |
+| LeetCode   | 18               | 4Sum                                                         |                     |                                              | java      |
 | LeetCode   | 20               | 有效的括号                                                   | 栈                  |                                               | java     |
 | LeetCode   | 21               | Merge Two Sorted Lists                                       | 链表                | 归并排序                                      | c        |
 | LeetCode   | 22               | Generate Parentheses                                         |                     | 动态规划                                      | java     |
@@ -369,6 +371,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 378              | Kth Smallest Element in a Sorted Matrix                      |                     | 二分查找                                      | java     |
 | LeetCode   | 382              | Linked List Random Node                                      |                     |                                               |          |
 | LeetCode   | 383              | Ransom Note                                                  | 哈希表              |                                               | js       |
+| LeetCode   | 384              | Shuffle an Array                                             |                     | Knuth Shuffle                                 | java     |
 | LeetCode   | 387              | First Unique Character in a String                           |                     |                                               | java     |
 | LeetCode   | 394              | Decode String                                                |                     |                                               | java     |
 | LeetCode   | 395              | Longest Substring with At Least K Repeating Characters       | 哈希表              | 递归                                          | kt       |
@@ -394,8 +397,9 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 576              | Out of Boundary Paths                                        |                     | 动态规划                                      | java     |
 | LeetCode   | 593              | Valid Square                                                 |                     |                                               | java     |
 | LeetCode   | 594              | Longest Harmonious Subsequence                               | 哈希表              | 贪心                                          | java     |
+| LeetCode   | 600              | Non-negative Integers without Consecutive Ones               |                     | 数学,位运算                                   | java     |
 | LeetCode   | 605              | Can Place Flowers                                            |                     | 贪心,数学                                     | java     |
-| LeetCode   | 611              | Valid Triangle Number                                        |                     | 二分查找,线性扫描                                     | java     |
+| LeetCode   | 611              | Valid Triangle Number                                        |                     | 二分查找,线性扫描                              | java     |
 | LeetCode   | 637              | Average of Levels in Binary Tree                             |                     |                                               | java     |
 | LeetCode   | 639              | Decode Ways II                                               |                     | 动态规划                                      | java     |
 | LeetCode   | 645              | Set Mismatch                                                 |                     | 位运算                                        | java     |
@@ -405,47 +409,54 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 684              | Redundant Connection                                         | 并查集              |                                               | java     |
 | LeetCode   | 706              | Design HashMap                                               |                     |                                               | java     |
 | LeetCode   | 714              | Best Time to Buy and Sell Stock with Transaction Fee         |                     | 动态规划                                      | java     |
-| LeetCode   | 717              | 1-bit and 2-bit Characters                                   |                     |                                               |          |
-| LeetCode   | 718              | Maximum Length of Repeated Subarray                          |                     | 动态规划                                              | java     |
+| LeetCode   | 717              | 1-bit and 2-bit Characters                                   |                     |                                               | java     |
+| LeetCode   | 718              | Maximum Length of Repeated Subarray                          |                     | 动态规划                                      | java     |
+| LeetCode   | 732              | My Calendar III                                              |                     | 前缀和                                        | java     |
 | LeetCode   | 733              | Flood Fill                                                   |                     | 深度优先搜索                                  | java     |
 | LeetCode   | 739              | 每日温度                                                     | 栈                  |                                               | java     |
 | LeetCode   | 754              | Reach a Number                                               |                     |                                               | java     |
-| LeetCode   | 765              | Couples Holding Hands                                        |                      | 贪心                                              | java     |
+| LeetCode   | 765              | Couples Holding Hands                                        |                      | 贪心                                         | java     |
 | LeetCode   | 771              | Jewels and Stones                                            |                     |                                               | js       |
 | LeetCode   | 791              | Custom Sort String                                           |                      |                                               | java     |
 | LeetCode   | 792              | Number of Matching Subsequences                              |                     |                                               | java     |
 | LeetCode   | 804              | Unique Morse Code Words                                      | 集合                |                                               | java     |
-| LeetCode   | 815              | Bus Routes                                                   |                     | 广度优先搜索,优化                                          | java     |
+| LeetCode   | 814              | Binary Tree Pruning                                          |                     | 递归                                          | java     |
+| LeetCode   | 815              | Bus Routes                                                   |                     | 广度优先搜索,优化                              | java     |
 | LeetCode   | 820              | Short Encoding of Words                                      | 字典树              | 贪心                                          | java     |
 | LeetCode   | 821              | Shortest Distance to a Character                             |                     | 贪心                                          | java     |
 | LeetCode   | 823              | Binary Trees With Factors                                    |                     | 动态规划                                      | java     |
+| LeetCode   | 838              | Push Dominoes                                                |                     | 贪心                                          | java     |
 | LeetCode   | 841              | Keys and Rooms                                               |                     | 广度优先搜索                                  | java     |
 | LeetCode   | 844              | 比较含退格的字符串                                           | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                                    |                     | 双指针                                        | java     |
 | LeetCode   | 856              | Score of Parentheses                                         |                     | 贪心,数学                                     | java     |
 | LeetCode   | 858              | Mirror Reflection                                            |                     |                                               | java     |
-| LeetCode   | 860              | Lemonade Change                                              |                     | 贪心                                          |          |
+| LeetCode   | 860              | Lemonade Change                                              |                     | 贪心                                          | java     |
 | LeetCode   | 865              | Smallest Subtree with all the Deepest Nodes                  |                     | 递归,记忆化搜索                               | java     |
 | LeetCode   | 869              | Reordered Power of 2                                         |                     |                                               | java     |
 | LeetCode   | 880              | Decoded String at Index                                      |                     | 递归,余数                                     | java     |
 | LeetCode   | 881              | Boats to Save People                                         | 双指针              | 贪心                                          | java     |
 | LeetCode   | 890              | Find and Replace Pattern                                     | 哈希表              |                                               | java     |
+| LeetCode   | 895              | Maximum Frequency Stack                                      | 栈,哈希表           |                                               | java     |
 | LeetCode   | 897              | Increasing Order Search Tree                                 | 二叉搜索树          | 递归                                          | java     |
 | LeetCode   | 901              | Online Stock Span                                            | 栈                  |                                               | java     |
 | LeetCode   | 902              | Numbers At Most N Given Digit Set                            |                     | 数位DP,数学,进制转换,贪心                     | java     |
 | LeetCode   | 910              | Smallest Range II                                            |                     |                                               | java     |
+| LeetCode   | 915              | Partition Array into Disjoint Intervals                      |                     |                                               | java     |
 | LeetCode   | 916              | Word Subsets                                                 |                     |                                               | java     |
 | LeetCode   | 918              | Maximum Sum Circular Subarray                                |                     | 前缀和,双端队列,动态规划                      | java     |
+| LeetCode   | 927              | Three Equal Parts                                            |                     |                                               | java     |
 | LeetCode   | 938              | Range Sum of BST                                             |                     |                                               | java     |
 | LeetCode   | 941              | Valid Mountain Array                                         |                     |                                               | java     |
 | LeetCode   | 970              | Powerful Integers                                            |                     |                                               |          |
-| LeetCode   | 974              | Subarray Sums Divisible by K                                 |                     | 前缀和,差分                                   |          |
+| LeetCode   | 974              | Subarray Sums Divisible by K                                 |                     | 前缀和,差分                                   | java     |
 | LeetCode   | 977              | Squares of a Sorted Array                                    |                     | 双指针                                        | java     |
+| LeetCode   | 980              | Unique Paths III                                             |                     | DFS                                          | java      |
 | LeetCode   | 983              | Minimum Cost For Tickets                                     |                     | 动态规划                                      | java     |
-| LeetCode   | 984              | String Without AAA or BBB                                    |                     | 贪心                                          |          |
+| LeetCode   | 984              | String Without AAA or BBB                                    |                     | 贪心                                          | java     |
 | LeetCode   | 986b             | Interval List Intersections                                  |                     |                                               | java     |
-| LeetCode   | 989              | Add to Array-Form of Integer                                 |                     |                                               |          |
-| LeetCode   | 991              | Broken Calculator                                            |                     | 贪心                                          |          |
+| LeetCode   | 989              | Add to Array-Form of Integer                                 |                     |                                               | java     |
+| LeetCode   | 991              | Broken Calculator                                            |                     | 贪心                                          | java     |
 | LeetCode   | 993              | Cousins in Binary Tree                                       |                     |                                               | java     |
 | LeetCode   | 997              | Find the Town Judge                                          | 图的入度和出度      |                                               | java     |
 | LeetCode   | 1004             | Max Consecutive Ones III                                     |                     | 贪心,滑动窗口,双指针                          | java     |
