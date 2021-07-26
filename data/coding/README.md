@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 525 题 (records in total)
+共有记录 529 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 214
++ LeetCode: 218
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 454 题 (with code and tags)
+目前已整理代码 458 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 274 题使用 Java 编写 (solved with Java)
++ 278 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -273,6 +273,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 2                | Add Two Numbers                                              | 链表                |                                               | java     |
 | LeetCode   | 3                | Longest Substring Without Repeating Characters               | 滑动窗口            |                                               | java     |
 | LeetCode   | 5                | Longest Palindromic Substring                                |                     | 动态规划,最长回文子串,中心扩展                | java     |
+| LeetCode   | 6                | ZigZag Conversion                                            |                     |                                               | java     |
 | LeetCode   | 7                | Reverse Integer                                              |                     |                                               | java     |
 | LeetCode   | 9                | Palindrome Number                                            |                     |                                               | java     |
 | LeetCode   | 11               | Container With Most Water                                    | 双指针              | 暴力                                          |          |
@@ -285,6 +286,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 22               | Generate Parentheses                                         |                     | 动态规划                                      | java     |
 | LeetCode   | 24               | Swap Nodes in Pairs                                          | 链表                |                                               | c        |
 | LeetCode   | 25               | K 个一组翻转链表                                             | 链表                |                                               | java     |
+| LeetCode   | 28               | Merge k Sorted Lists                                         | 链表                |                                               | java     |
 | LeetCode   | 32               | Longest Valid Parentheses                                    | 栈                  | 动态规划,贪心                                 | java     |
 | LeetCode   | 33               | Search in Rotated Sorted Array                               |                     | 二分                                          | java     |
 | LeetCode   | 36               | Valid Sudoku                                                 |                     |                                           | java     |
@@ -298,6 +300,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 59               | Spiral Matrix II                                             |                     |                                               | java     |
 | LeetCode   | 62               | 不同路径                                                     |                     | 动态规划                                      | java     |
 | LeetCode   | 64               | Minimum Path                                                 |                     | 动态规划                                      | java     |
+| LeetCode   | 66               | Plus One                                                     |                     |                                       | java        |
 | LeetCode   | 70               | 爬楼梯                                                       |                     | 动态规划                                      | java     |
 | LeetCode   | 71               | Simplify Path                                                | 栈                  |                                               | java     |
 | LeetCode   | 74               | Search a 2D Matrix                                           |                     | 分治                                          |          |
@@ -310,9 +313,10 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 92               | Reverse Linked List II                                       | 链表                |                                               | java     |
 | LeetCode   | 98               | 验证二叉搜索树                                               | 二叉搜索树          |                                               | java     |
 | LeetCode   | 104              | Maximum Depth of Binary Tree                                 |                     |                                               | java     |
+| LeetCode   | 108              | Convert Sorted Array to Binary Search Tree                   |                      | 递归                                              | java     |
+| LeetCode   | 110              | Balanced Binary Tree                                         |                     |                                               | java     |
 | LeetCode   | 116              | Populating Next Right Pointers in Each Node                  |                     |                                               | java     |
 | LeetCode   | 117              | Populating Next Right Pointers in Each Node II               |                     |                                               | java     |
-| LeetCode   | 110              | Balanced Binary Tree                                         |                     |                                               | java     |
 | LeetCode   | 118              | Pascal's Triangle                                            |                     |                                               | java     |
 | LeetCode   | 119              | Pascal's Triangle II                                         |                     |                                               | java     |
 | LeetCode   | 131              | Palindrome Partitioning                                      |                     | 动态规划,回溯                                 | java     |
