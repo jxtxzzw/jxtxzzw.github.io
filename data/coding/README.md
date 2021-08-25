@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 529 题 (records in total)
+共有记录 539 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 218
++ LeetCode: 228
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 458 题 (with code and tags)
+目前已整理代码 468 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 278 题使用 Java 编写 (solved with Java)
++ 288 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -275,17 +275,22 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 5                | Longest Palindromic Substring                                |                     | 动态规划,最长回文子串,中心扩展                | java     |
 | LeetCode   | 6                | ZigZag Conversion                                            |                     |                                               | java     |
 | LeetCode   | 7                | Reverse Integer                                              |                     |                                               | java     |
+| LeetCode   | 8                | String to Integer (atoi)                                     |                     |                                               | java     |
 | LeetCode   | 9                | Palindrome Number                                            |                     |                                               | java     |
 | LeetCode   | 11               | Container With Most Water                                    | 双指针              | 暴力                                          |          |
 | LeetCode   | 12               | Integer to Roman                                             |                     |                                               | java     |
+| LeetCode   | 13               | Roman to Integer                                             |                     |                                               | java     |
+| LeetCode   | 14               | Longest Common Prefix                                        |                     | 二分                                           | java     |
 | LeetCode   | 15               | 3Sum                                                         |                     |                                               | java     |
 | LeetCode   | 17               | Letter Combinations of a Phone Number                        |                     | 递归                                              | java     |
 | LeetCode   | 18               | 4Sum                                                         |                     |                                              | java      |
+| LeetCode   | 19               | Remove Nth Node From End of List                            | 链表                | 双指针                                         | java     |
 | LeetCode   | 20               | 有效的括号                                                   | 栈                  |                                               | java     |
 | LeetCode   | 21               | Merge Two Sorted Lists                                       | 链表                | 归并排序                                      | c        |
 | LeetCode   | 22               | Generate Parentheses                                         |                     | 动态规划                                      | java     |
 | LeetCode   | 24               | Swap Nodes in Pairs                                          | 链表                |                                               | c        |
 | LeetCode   | 25               | K 个一组翻转链表                                             | 链表                |                                               | java     |
+| LeetCode   | 26               | Remove Duplicates from Sorted Array                          |                     |                                               | java     |
 | LeetCode   | 28               | Merge k Sorted Lists                                         | 链表                |                                               | java     |
 | LeetCode   | 32               | Longest Valid Parentheses                                    | 栈                  | 动态规划,贪心                                 | java     |
 | LeetCode   | 33               | Search in Rotated Sorted Array                               |                     | 二分                                          | java     |
@@ -293,6 +298,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 45               | 跳跃游戏 II                                                  |                     | 贪心                                          | java     |
 | LeetCode   | 47               | Permutations II                                              |                     | 回溯                                          | java     |
 | LeetCode   | 50               | Pow(x, n)                                                    |                     | 分治,快速幂                                   | java     |
+| LeetCode   | 51               | N-Queens                                                    |                     | 回溯                                         | java      |
 | LeetCode   | 53               | 最大子序和                                                   |                     | 动态规划                                      | js       |
 | LeetCode   | 55               | Jump Game                                                    |                     | 贪心                                          | java     |
 | LeetCode   | 56               | Merge Intervals                                              |                     |                                               | js       |
@@ -300,9 +306,11 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 59               | Spiral Matrix II                                             |                     |                                               | java     |
 | LeetCode   | 62               | 不同路径                                                     |                     | 动态规划                                      | java     |
 | LeetCode   | 64               | Minimum Path                                                 |                     | 动态规划                                      | java     |
+| LeetCode   | 65               | Valid Number                                                 |                     |                                             | java   |
 | LeetCode   | 66               | Plus One                                                     |                     |                                       | java        |
 | LeetCode   | 70               | 爬楼梯                                                       |                     | 动态规划                                      | java     |
 | LeetCode   | 71               | Simplify Path                                                | 栈                  |                                               | java     |
+| LeetCode   | 72               | Edit Distance                                                |                     | 动态规划,编辑距离                              | java     |
 | LeetCode   | 74               | Search a 2D Matrix                                           |                     | 分治                                          |          |
 | LeetCode   | 80               | Remove Duplicates from Sorted Array II                       |                     |                                               | java     |
 | LeetCode   | 81               | Search in Rotated Sorted Array II                            |                     | 二分                                          | java     |
@@ -391,6 +399,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 478              | Generate Random Point in a Circle                            |                     | 数学                                          | java     |
 | LeetCode   | 498              | Diagonal Traverse                                            |                     |                                               | java     |
 | LeetCode   | 516              | 最长回文子序列                                               |                     | 动态规划                                      | java     |
+| LeetCode   | 537              | Complex Number Multiplication                                |                     |                                              | java     |
 | LeetCode   | 538              | Convert BST to Greater Tree                                  | 二叉树              | Reverse Morris In-order Traversal             | java     |
 | LeetCode   | 540              | Single Element in a Sorted Array                             |                     | 二分查找                                      | java     |
 | LeetCode   | 556              | Next Greater Element III                                     |                     |                                               | java     |
@@ -404,6 +413,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 600              | Non-negative Integers without Consecutive Ones               |                     | 数学,位运算                                   | java     |
 | LeetCode   | 605              | Can Place Flowers                                            |                     | 贪心,数学                                     | java     |
 | LeetCode   | 611              | Valid Triangle Number                                        |                     | 二分查找,线性扫描                              | java     |
+| LeetCode   | 633              | Sum of Square Numbers                                        |                     |                                               | java     |
 | LeetCode   | 637              | Average of Levels in Binary Tree                             |                     |                                               | java     |
 | LeetCode   | 639              | Decode Ways II                                               |                     | 动态规划                                      | java     |
 | LeetCode   | 645              | Set Mismatch                                                 |                     | 位运算                                        | java     |
@@ -484,6 +494,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1492             | The kth Factor of n                                          |                     |                                               | java     |
 | LeetCode   | 1539             | Kth Missing Positive Number                                  |                     |                                               | c        |
 | LeetCode   | 1430             | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |                     |                                               | java     |
+| LeetCode   | 1448             | Count Good Nodes in Binary Tree                              |                     |                                              | java     | 
 | LeetCode   | 1461             | Check If a String Contains All Binary Codes of Size K        |                     | 滑动窗口,哈希                                 | java     |
 | LeetCode   | 1646             | Get Maximum in Generated Array                               |                     |                                               | java     |
 | LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                          | java     |
