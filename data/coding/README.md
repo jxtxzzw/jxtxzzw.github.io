@@ -18,25 +18,25 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 5478
+共有记录 551
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 237
++ LeetCode: 240
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 475 题 (with code and tags)
+目前已整理代码 478 题 (with code and tags)
 
-+ 172 题使用 C/C++ 编写 (solved with C/C++)
++ 174 题使用 C/C++ 编写 (solved with C/C++)
 + 296 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
-+ 2 题使用 Python 编写 (solved with Python) 
++ 3 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
 + 1 题使用 SQL 编写 (solved with SQL) 
 + 0 题使用 Racket 编写 (solved with Racket) 
@@ -351,6 +351,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 200              | Number of Islands                                            |                     | 深度优先搜索                                  | java     |
 | LeetCode   | 202              | Happy Number                                                 |                     |                                    | java     |
 | LeetCode   | 205              | Isomorphic Strings                                           | 哈希表              |                                               | java     |
+| LeetCode   | 206              | Reverse Linked List                                         | 链表                  |            |                                 | c         |
 | LeetCode   | 208              | 实现Trie（前缀树）                                           | 前缀树              |                                               | java     |
 | LeetCode   | 212              | 单词搜索 II                                                  | 前缀树              | 深度优先搜索                                  | java     |
 | LeetCode   | 218              | The Skyline Problem                                          |                     | 扫描线算法                                    | java     |
@@ -450,6 +451,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 841              | Keys and Rooms                                               |                     | 广度优先搜索                                  | java     |
 | LeetCode   | 844              | 比较含退格的字符串                                           | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                                    |                     | 双指针                                        | java     |
+| LeetCode   | 848              | Shifting Letters                                             |                     | 前缀和                               | c    |
 | LeetCode   | 856              | Score of Parentheses                                         |                     | 贪心,数学                                     | java     |
 | LeetCode   | 858              | Mirror Reflection                                            |                     |                                               | java     |
 | LeetCode   | 860              | Lemonade Change                                              |                     | 贪心                                          | java     |
@@ -505,6 +507,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1430             | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |                     |                                               | java     |
 | LeetCode   | 1448             | Count Good Nodes in Binary Tree                              |                     |                                              | java     | 
 | LeetCode   | 1461             | Check If a String Contains All Binary Codes of Size K        |                     | 滑动窗口,哈希                                 | java     |
+| LeetCode   | 1629             | Slowest Key                                                  | 哈希表               |                                               | py       | 
 | LeetCode   | 1646             | Get Maximum in Generated Array                               |                     |                                               | java     |
 | LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                          | java     |
 | LeetCode   | 1662             | Check If Two String Arrays are Equivalent                    |                     |                                               | java     |
