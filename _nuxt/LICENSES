@@ -23,13 +23,6 @@ object-assign
  */
 
 /*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
- * @license  MIT
- */
-
-/*!
  * vue-client-only v0.0.0-semantic-release
  * (c) 2021-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
@@ -3040,6 +3033,8 @@ License at http://www.apache.org/licenses/LICENSE-2.0
 /*!***********************************************************************************************************!*\
   !*** ./node_modules/_d3-composite-projections@1.4.0@d3-composite-projections/d3-composite-projections.js ***!
   \***********************************************************************************************************/
+
+/*!important*/
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
