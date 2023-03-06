@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 553
+共有记录 623
 
 + CodeForces: 8
 + CSU: 1
@@ -30,19 +30,20 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + ZOJ: 1
 + 计蒜客: 70
 + 洛谷: 2
++ Coursera: 70
 
-目前已整理代码 480 题 (with code and tags)
+目前已整理代码 552 题 (with code and tags)
 
 + 175 题使用 C/C++ 编写 (solved with C/C++)
-+ 297 题使用 Java 编写 (solved with Java)
-+ 1 题使用 Kotlin 编写 (solved with Kotlin) 
++ 319 题使用 Java 编写 (solved with Java)
++ 29 题使用 Kotlin 编写 (solved with Kotlin) 
 + 3 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
 + 1 题使用 SQL 编写 (solved with SQL) 
-+ 0 题使用 Racket 编写 (solved with Racket) 
-+ 0 题使用 Ruby 编写 (solved with Ruby) 
-+ 0 题使用 Golang 编写 (solved with Golang) 
-+ 0 题使用 ML/SML/OCaml 编写 (solved with ML/SML/OCaml) 
++ 2 题使用 Racket 编写 (solved with Racket) 
++ 2 题使用 Ruby 编写 (solved with Ruby) 
++ 10 题使用 Golang 编写 (solved with Golang) 
++ 6 题使用 ML/SML/OCaml 编写 (solved with ML/SML/OCaml) 
 + 0 题使用 PHP 编写 (solved with PHP) 
 
 ---
@@ -605,3 +606,74 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | 计蒜客     | 蒜头君的期待       | 蒜头君的期待                                                | Treap,平衡树 |                                     | cpp     |
 | 洛谷       | 1540             | 机器翻译                                                     | 队列                |                                               |          |
 | 洛谷       | 1638             | 逛画展                                                       | 队列,滑动窗口       | 贪心                                          |          |
+| Coursera | Percolation | Percolation | 并查集 |  | java |
+| Coursera | PercolationStats | PercolationStats | 并查集 |  | java |
+| Coursera | Deque | Deque | 队列 |  | java |
+| Coursera | Permutation | Permutation | 队列 |  | java |
+| Coursera | RandomizedQueue | RandomizedQueue | 队列 |  | java |
+| Coursera | BruteCollinearPoints | BruteCollinearPoints |  | 排序 | java |
+| Coursera | FastCollinearPoints | FastCollinearPoints |  | 排序 | java |
+| Coursera | Board                                    | Board                                                        |  | A*算法,搜索 | java |
+| Coursera | Solver | Solver |  | A*算法,搜索 | java |
+| Coursera | KdTree | KdTree |  | 搜索 | java |
+| Coursera | PointSET | PointSET |  | 搜索 | java |
+| Coursera | BurrowsWheeler | BurrowsWheeler | 哈夫曼压树 | 压缩 | java |
+| Coursera | MoveToFront | MoveToFront | 哈夫曼压树 | 压缩 | java |
+| Coursera | CircularSuffixArray | CircularSuffixArray | 哈夫曼压树 | 压缩 | java |
+| Coursera | Outcast | Outcast | 图 | 最近公共祖先 | java |
+| Coursera | SAP | SAP | 图 | 最近公共祖先 | java |
+| Coursera | WordNet | WordNet | 图 | 最近公共祖先 | java |
+| Coursera | SeamCarver | SeamCarver |  | 动态规划 | java |
+| Coursera | BaseballElimination | BaseballElimination |  | 网络流,最大流 | java |
+| Coursera | BoggleSolver | BoggleSolver | 字典树,前缀树 | 搜索 | java |
+| Coursera | Trie | Trie | 字典树,前缀树 | 搜索 | java |
+| Coursera | TrieNode | TrieTrieNode | 字典树,前缀树 | 搜索 | java |
+| Coursera | Checking identifier | Checking identifier |  |  | kt |
+| Coursera | Sum as an extension function | Sum as an extension function |  |  | kt |
+| Coursera | NiceString | NiceString |  |  | kt |
+| Coursera | TaxiPark | TaxiPark |  |  | kt |
+| Coursera | TaxiParkTask | TaxiParkTask |  |  | kt |
+| Coursera | Checking whether string is null or empty | Checking whether string is null or empty |  |  | kt |
+| Coursera | Interchangeable predicates | Interchangeable predicates |  |  | kt |
+| Coursera | Safe cases | Safe cases |  |  | kt |
+| Coursera | Board | Board |  |  | kt |
+| Coursera | BoardImpl | BoardImpl |  |  | kt |
+| Coursera | Rational | Rational |  |  | kt |
+| Coursera | Equality | Equality |  |  | kt |
+| Coursera | NPE during initialization | NPE during initialization |  |  | kt |
+| Coursera | Unstable val | Unstable val |  |  | kt |
+| Coursera | Using lateinit property | Using lateinit property |  |  | kt |
+| Coursera | Games-Board | Games-Board |  |  | kt |
+| Coursera | Games-BoardImpl | Games-BoardImpl |  |  | kt |
+| Coursera | Game | Game |  |  | kt |
+| Coursera | Game2048 | Game2048 |  |  | kt |
+| Coursera | Game2048Helper | Game2048Helper |  |  | kt |
+| Coursera | Game2048Initializer | Game2048Initializer |  |  | kt |
+| Coursera | GameOfFifteen | GameOfFifteen |  |  | kt |
+| Coursera | GameOfFifteenHelper | GameOfFifteenHelper |  |  | kt |
+| Coursera | GameOfFifteenInitializer | GameOfFifteenInitializer |  |  | kt |
+| Coursera | Fibonacci sequence                       | Fibonacci sequence |  |  | kt |
+| Coursera | Inlining of the 'filter' function | Inlining of the 'filter' function |  |  | kt |
+| Coursera | Member extensions | Member extensions |  |  | kt |
+| Coursera | Working with auxiliary functions | Working with auxiliary functions |  |  | kt |
+| Coursera | programming-languages-part-a-hw-1 | Programming Languages, Part A, HW 1 | | | sml |
+| Coursera | programming-languages-part-a-hw-1-test | Programming Languages, Part A, HW 1 (Test) | | | sml |
+| Coursera | programming-languages-part-a-hw-2 | Programming Languages, Part A, HW 2 | | | sml |
+| Coursera | programming-languages-part-a-hw-3 | Programming Languages, Part A, HW 3 | | | sml |
+| Coursera | programming-languages-part-a-hw-3-test | Programming Languages, Part A, HW 3 (Test) | | | sml |
+| Coursera | programming-languages-part-a-hw-4 | Programming Languages, Part B, HW 4 | | | rkt |
+| Coursera | programming-languages-part-a-hw-5 | Programming Languages, Part B, HW 5 | | | rkt |
+| Coursera | programming-languages-part-a-hw-6 | Programming Languages, Part C, HW 6 | | | rb |
+| Coursera | programming-languages-part-a-hw-7-sml | Programming Languages, Part C, HW 7, SML | | | sml |
+| Coursera | programming-languages-part-a-hw-7-rb | Programming Languages, Part C, HW 7, Ruby | | | rb |
+| Coursera | Hello World | Hello World | | | go |
+| Coursera | findian | findian | | | go |
+| Coursera | makejson | makejson | | | go |
+| Coursera | read | read | | | go |
+| Coursera | slice | slice | | | go |
+| Coursera | trunc | trunc | | | go |
+| Coursera | BubbleSort | BubbleSort | | | go |
+| Coursera | GenDisplaceFn | GenDisplaceFn | | | go |
+| Coursera | animal | animal | | | go |
+| Coursera | newanimal | newanimal | | | go |
+
