@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 623
+共有记录 625
 
 + CodeForces: 8
 + CSU: 1
@@ -30,9 +30,9 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + ZOJ: 1
 + 计蒜客: 70
 + 洛谷: 2
-+ Coursera: 70
++ Coursera: 72
 
-目前已整理代码 553 题 (with code and tags)
+目前已整理代码 555 题 (with code and tags)
 
 + 175 题使用 C/C++ 编写 (solved with C/C++)
 + 320 题使用 Java 编写 (solved with Java)
@@ -42,7 +42,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + 1 题使用 SQL 编写 (solved with SQL) 
 + 2 题使用 Racket 编写 (solved with Racket) 
 + 2 题使用 Ruby 编写 (solved with Ruby) 
-+ 10 题使用 Golang 编写 (solved with Golang) 
++ 12 题使用 Golang 编写 (solved with Golang) 
 + 6 题使用 ML/SML/OCaml 编写 (solved with ML/SML/OCaml) 
 + 0 题使用 PHP 编写 (solved with PHP) 
 
@@ -676,4 +676,6 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | Coursera | GenDisplaceFn | GenDisplaceFn | | | go |
 | Coursera | animal | animal | | | go |
 | Coursera | newanimal | newanimal | | | go |
+| Coursera | race | race | | | go |
+| Coursera | goroutine | goroutine | | | go |
 
